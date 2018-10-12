@@ -1,0 +1,15 @@
+# Cluster Discovery Services for Telecommunications
+
+## Introduction/Business Problem:
+Providing optimum network coverage is goal of each Network Planning Deportment of a telecommunication company. For this reason, companies tend to perform surveys, marketing, and outsourcing so that maximum profit be gained by minimum resource deployment. With the lake of such planning and management, the companies suffers from many problems including the following of top most concerns:
+1)  customer churn
+2) poor allocation of resources
+3) insufficient of customer segmentation and so in creating packages
+Therefore, we propose to establish a framework of services that offers cluster mining for existing and potential customers,  optimum network planning, package 
+
+## Data
+Telecommunication companies are well equipped with customer data and geographical area of their interests. Such data exist in CRM solutions that contains customer addresses as well as service usage behavior along-with their financial patterns. Moreover, Network planning and operation departments are also rich in capturing their deployed resources like base stations and cabinets. 
+Therefore, leveraging the data of customers’ profile and behavior along-with deployed resources and financial outcome can provide a strong base for data scientists to answer some of their top most problems. 
+1) Identifying clusters of customer churns
+2) Identifying the geographical areas that require resource optimization
+3) Identifying clusters of problems that affects customer services 
